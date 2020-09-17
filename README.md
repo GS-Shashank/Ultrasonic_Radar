@@ -19,5 +19,3 @@ here we are using two files.
   The serial port wire is used to connect arduino and the computer. This wire is used to transmit and recieve data from arduino. 
   After dumping the arduino code into the arduino, open the processing 3.0 file and run it. the port receives the data from arduino and processing processes it to give a graphical display.
   
-j
-u
