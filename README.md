@@ -20,3 +20,4 @@ here we are using two files.
   After dumping the arduino code into the arduino, open the processing 3.0 file and run it. the port receives the data from arduino and processing processes it to give a graphical display.
   
 j
+u
